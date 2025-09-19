@@ -41,3 +41,10 @@ Constraints:
 The formula is always in the format "=X+Y", where X and Y are either valid cell references or non-negative integers with values less than or equal to 105.
 Each cell reference consists of a capital letter from 'A' to 'Z' followed by a row number between 1 and rows.
 At most 104 calls will be made in total to setCell, resetCell, and getValue
+
+
+
+Learned Things:
+1 - Handling String input. 
+2- use of substr function to find a substring in a string. (It basically takes two arguments (pos,len) to find the substring).
+3- find function : find Position of substrng in a string
