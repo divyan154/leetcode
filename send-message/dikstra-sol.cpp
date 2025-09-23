@@ -49,6 +49,7 @@ int main()
    if(dis[n] == 1e8)
    cout << "IMPOSSIBLE" <<endl;
    
+   else{
    int k = dis[n];
    cout << k + 1<<endl;
    
@@ -63,6 +64,6 @@ int main()
    for(int i = 0 ; i < res.size() ; i++)
    cout << res[i] << " ";
    
-   cout << endl;
+   cout << endl;}
 	return 0;
 }
