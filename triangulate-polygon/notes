@@ -1,0 +1,2 @@
+I didnt think of dp at first. I thought of generating all possible scenarios but didnt go deep dive on how to generate different subproblems.
+ONly got to know after seeing the solution. Also in the bottom-up dp the loops index traversal was little confusing.
