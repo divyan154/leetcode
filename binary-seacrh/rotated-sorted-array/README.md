@@ -9,3 +9,6 @@ Given the array nums after the possible rotation and an integer target, return t
 
 You must write an algorithm with O(log n) runtime complexity.
 
+Solution --- 2 Approaches 
+    1 - Finding Rotated index(min value ind) then start binary search from that element(virtual array)
+    2 - Use Sorted unsorted parts of array then find which part target is present and proceed
