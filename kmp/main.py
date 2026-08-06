@@ -51,5 +51,5 @@ class Solution:
         # Notes 
 
         # 1 - Time complexity - O(M+N) -- KMP SOlution , Naive Solution - O (M*N)
-        
+        # 2 - Lps array tells the len of longest proper prefix that is also suffix
 
