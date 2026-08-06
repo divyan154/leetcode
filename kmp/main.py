@@ -46,4 +46,10 @@ class Solution:
         ans = -1 if len(result) == 0 else result[0]
         return ans
  
+
+
+        # Notes 
+
+        # 1 - Time complexity - O(M+N) -- KMP SOlution , Naive Solution - O (M*N)
         
+
