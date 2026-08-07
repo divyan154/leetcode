@@ -7,3 +7,5 @@ The parts should be in the order of occurrence in the input list, and parts occu
 
 Return an array of the k parts.
 
+Solution --- Notes
+Implementation difficult 
