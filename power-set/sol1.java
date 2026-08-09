@@ -48,3 +48,7 @@ public class sol1 {
 
     }
 }
+
+
+// Time complexity -- O(N*2^N)
+// Space COmplexity -- O(N*2^N)
