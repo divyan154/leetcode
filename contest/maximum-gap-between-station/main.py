@@ -27,5 +27,8 @@ class Solution:
         return ans    
 
 
-            
+  #
+  # Time Complexity
+  # O(N + M ) 
+  # In First Look, It looks like O(N*M) but j donesnt reset. it keeps moving  
 
