@@ -19,7 +19,8 @@ class Solution:
 
 
 
-
+# Time complexity - O(R) r is size of reserved seats
+# Space complexity - 0(R) size of defauldict
 
 
 
