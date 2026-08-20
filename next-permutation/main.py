@@ -20,3 +20,5 @@ class Solution:
         # Reverse
         nums[i:] = sorted(nums[i:])
 
+# Time complexity - O(N)
+# Space Complexity - 0(1)
