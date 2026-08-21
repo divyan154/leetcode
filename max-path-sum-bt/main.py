@@ -22,3 +22,7 @@ class Solution:
         self.maxi = float('-inf')
         ans = self.dfs(root)
         return self.maxi
+
+
+# Time complexity - 0(n)
+# Space - AUxilaruy space of 0(N)
