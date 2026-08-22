@@ -26,4 +26,4 @@ class Solution:
         return self.dfs(root, p , q)
 
 # Time complexity - 0(N)
-# Space - 0(1)
+# Space - 0(1) Stack Space 0(logn) in case of balanced bt otherwise 0(N) in case of skewed Tree
