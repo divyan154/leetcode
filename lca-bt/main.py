@@ -24,4 +24,6 @@ class Solution:
      
     def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
         return self.dfs(root, p , q)
-        
+
+# Time complexity - 0(N)
+# Space - 0(1)
