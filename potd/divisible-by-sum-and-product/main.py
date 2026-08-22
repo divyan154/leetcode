@@ -10,4 +10,6 @@ class Solution:
         print(tot)
         print(prod)
         return True if num % (prod + tot) == 0 else False 
-        
+
+# Time complexity - 0(logn)
+# Space Complexity -  0(1)
