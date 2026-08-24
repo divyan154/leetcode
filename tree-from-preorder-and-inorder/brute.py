@@ -20,3 +20,6 @@ class Solution:
                 return root
 
         return build(preorder, inorder)
+
+    # Time complexity - 0(N^2) index lookup costly operation
+    # Space Complexity - 0(1)
