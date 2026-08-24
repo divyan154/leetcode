@@ -74,3 +74,4 @@ if __name__ == "__main__":
     print("Minimum time to burn the tree:", sol.minTime(root, target))
 
 # Time complexity - 0(N)
+# Space complexity - 0(N)
