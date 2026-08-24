@@ -31,5 +31,6 @@ class Solution:
 
         return self.build(preorder, mapping, 0, n - 1)
 
-
+# time complexity - 0(N) 
+# Space complexity - 0(N) HashMap lookup
         
