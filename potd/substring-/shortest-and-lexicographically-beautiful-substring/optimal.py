@@ -14,3 +14,6 @@ class Solution:
                 if len(t) < len(ans) or len(t) == len(ans) and t < ans:
                     ans = t
         return ans
+    
+# Time complexity - 0(N^2)
+# Space - 0(1)
