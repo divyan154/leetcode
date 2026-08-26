@@ -29,3 +29,7 @@ class Solution:
                     break      
 
         return min(res)
+
+    # TIme complexity - 0(N^3)
+    # Space COmplexity - 0(N)
+    # Notes - No need to take additional array , take another variable compare on the fly
