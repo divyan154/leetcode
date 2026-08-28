@@ -54,3 +54,8 @@ class Solution:
                 j = r.next()        
 
         return False        
+
+
+
+    # Time complexity - 0(N)
+    # Space Complexity - 0(H)
