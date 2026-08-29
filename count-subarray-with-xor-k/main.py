@@ -17,3 +17,7 @@ class Solution:
             countOfPreviousXors[xor] = countOfPreviousXors.get(xor, 0) + 1
     
         return cnt
+
+    # Time complexity - 0(N)
+    # Space - 0(N)
+    # Similar approach can be used for subarray with sum k
