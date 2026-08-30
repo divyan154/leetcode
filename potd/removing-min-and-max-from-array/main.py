@@ -20,4 +20,5 @@ class Solution:
         return min(second_idx + 1, min(n - first_idx, n - second_idx + first_idx + 1))  
 
 
- 
+#  0(N) time complexity solution
+# 0(1) SPace complecity
