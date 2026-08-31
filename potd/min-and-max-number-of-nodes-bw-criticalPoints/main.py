@@ -30,5 +30,6 @@ class Solution:
             mini = min(mini, arr[i+1] - arr[i])
         return [mini, maxi]    
 
-
+# Time complexity - 0(N)
+# Space complexity - 0(N) for storing positions (this is what i though of )
 
