@@ -44,3 +44,6 @@ class Solution:
             result = [min_distance, max_distance]
 
         return result
+
+    # Time complexity - 0(N)
+    # Space complexity - 0(1)
