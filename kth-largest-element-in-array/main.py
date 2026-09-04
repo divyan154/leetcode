@@ -7,4 +7,7 @@ class Solution:
             if num > heap[0]:
                 heapq.heappop(heap)
                 heapq.heappush(heap, num)
-        return heap[0]        
+        return heap[0]   
+         
+# Time complexity - 0(n*logk)
+# Space complexity - 0(1)
