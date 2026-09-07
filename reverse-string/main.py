@@ -8,4 +8,7 @@ class Solution:
             i += 1
             j -= 1
         return "".join(s)    
+
+# TIme complexity - 0(N)
+# Space complexity - 0(1)
         
