@@ -12,3 +12,6 @@ class Solution(object):
                 nums1[k] = nums2[j]
                 j -= 1
             k -= 1
+
+# Time COmplexity - 0(M+N)
+# SPace COmplexity - 0(1)            
