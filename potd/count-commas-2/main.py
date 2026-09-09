@@ -6,3 +6,6 @@ class Solution:
             res += n - p + 1
             p *= 1000
         return res    
+
+# Time complexity - 0(Logn)
+# Space complexity - O(1)
