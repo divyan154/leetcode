@@ -36,4 +36,5 @@ class Solution:
         return time    
 
 
-
+# time - o(m*n)
+# Space - 0(m*n) worst case 
