@@ -1,14 +1,6 @@
 
-
-Code
-
-Testcase
-Testcase
-
-Test Result
 994. Rotting Oranges
-Solved
-Medium
+
 
 Topics
 premium lock icon
