@@ -20,4 +20,6 @@ class Solution:
     def longestPalindromeSubseq(self, s: str) -> int:
         t = s[::-1]
         return self.lcs(s,t)
-        
+# Time complexity - 0(N^2)
+# Space complexity - 0(N^2)
+    
